@@ -1,0 +1,5 @@
+CompileFlags:
+  CompilationDatabase: build/
+
+Diagnostics:
+  Suppress: ["pp_hash_error"]
