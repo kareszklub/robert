@@ -1,0 +1,8 @@
+Default	True	0.25	3
++5V	False	0.5	3
+3V3	False	2.0	3
+Analog signal	False	2.0	3
+GNDA	False	2.0	3
+Signal	False	2.0	3
+VCC	False	2.0	3
+False	True	False
