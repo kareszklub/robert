@@ -503,7 +503,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.hestore.hu/prod_10039694.htmlhttps://www.hestore.hu/prod_10039694.html"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14368,6 +14368,24 @@
 		(net "+3V3")
 		(uuid "eae60338-9820-4eaf-85db-8aafbcd3c141")
 	)
+	(via
+		(at 92.15 110.25)
+		(size 0.8)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net "GND")
+		(uuid "90ac1213-2946-4701-90db-9a807ee9ef20")
+	)
+	(via
+		(at 92.45 52.35)
+		(size 0.8)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net "GND")
+		(uuid "ee0614f0-aa65-4ccb-b7c2-94c49ff5529a")
+	)
 	(segment
 		(start 102.01 101)
 		(end 102.01 93.96)
@@ -14465,24 +14483,6 @@
 		(layer "B.Cu")
 		(net "VCC")
 		(uuid "c08bf491-421f-45b5-ad8e-1fc3d34ac16a")
-	)
-	(via
-		(at 92.15 110.25)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(net "GND")
-		(uuid "90ac1213-2946-4701-90db-9a807ee9ef20")
-	)
-	(via
-		(at 92.45 52.35)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(free yes)
-		(net "GND")
-		(uuid "ee0614f0-aa65-4ccb-b7c2-94c49ff5529a")
 	)
 	(segment
 		(start 135.25 48.045)

@@ -8381,7 +8381,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.hestore.hu/prod_10037485.html"
 			(at 200.66 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -8469,7 +8469,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.hestore.hu/prod_10044010.html"
 			(at 193.675 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -10292,7 +10292,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.hestore.hu/prod_10039018.html"
 			(at 34.29 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -12278,7 +12278,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.hestore.hu/prod_10000289.html"
 			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -15322,7 +15322,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
+		(property "Datasheet" "https://www.hestore.hu/prod_10039960.html"
 			(at 52.07 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -15953,7 +15953,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.hestore.hu/prod_10035938.html"
 			(at 147.32 97.79 0)
 			(hide yes)
 			(show_name no)
